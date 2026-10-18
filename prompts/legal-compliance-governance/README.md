@@ -1,0 +1,28 @@
+# Legal Compliance Governance Prompts
+
+24 prompt templates.
+
+- [Contract Clause Comparison](./01-contract-clause-comparison.md)
+- [Contract Risk Summary](./02-contract-risk-summary.md)
+- [NDA Issue Spotter](./03-nda-issue-spotter.md)
+- [Vendor Contract Checklist](./04-vendor-contract-checklist.md)
+- [Policy Gap Analysis](./05-policy-gap-analysis.md)
+- [Regulatory Change Impact](./06-regulatory-change-impact.md)
+- [Compliance Obligation Register](./07-compliance-obligation-register.md)
+- [Control Design Review](./08-control-design-review.md)
+- [Audit Finding Response](./09-audit-finding-response.md)
+- [Internal Audit Plan](./10-internal-audit-plan.md)
+- [Governance Committee Brief](./11-governance-committee-brief.md)
+- [Board Decision Memo](./12-board-decision-memo.md)
+- [Data Processing Agreement Review](./13-data-processing-agreement-review.md)
+- [Records Retention Review](./14-records-retention-review.md)
+- [Third-Party Risk Review](./15-third-party-risk-review.md)
+- [Conflict of Interest Review](./16-conflict-of-interest-review.md)
+- [Whistleblower Case Triage](./17-whistleblower-case-triage.md)
+- [Policy Exception Analysis](./18-policy-exception-analysis.md)
+- [Legal Research Issue Tree](./19-legal-research-issue-tree.md)
+- [Case Law Research Plan](./20-case-law-research-plan.md)
+- [Evidence Chronology Builder](./21-evidence-chronology-builder.md)
+- [Due Diligence Checklist](./22-due-diligence-checklist.md)
+- [Compliance Training Scenario](./23-compliance-training-scenario.md)
+- [Governance RACI](./24-governance-raci.md)

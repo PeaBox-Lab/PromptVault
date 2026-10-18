@@ -1,0 +1,28 @@
+# Healthcare Life Sciences Prompts
+
+24 prompt templates.
+
+- [Clinical Literature Review](./01-clinical-literature-review.md)
+- [Patient Education Explainer](./02-patient-education-explainer.md)
+- [Clinical Trial Protocol Critique](./03-clinical-trial-protocol-critique.md)
+- [Trial Eligibility Criteria Reviewer](./04-trial-eligibility-criteria-reviewer.md)
+- [Adverse Event Narrative Summarizer](./05-adverse-event-narrative-summarizer.md)
+- [Medical Evidence Gap Analysis](./06-medical-evidence-gap-analysis.md)
+- [Drug Target Landscape](./07-drug-target-landscape.md)
+- [Biomarker Research Brief](./08-biomarker-research-brief.md)
+- [Health Economics Research Plan](./09-health-economics-research-plan.md)
+- [Real-World Evidence Study Design](./10-real-world-evidence-study-design.md)
+- [Hospital Capacity Scenario](./11-hospital-capacity-scenario.md)
+- [Care Pathway Mapper](./12-care-pathway-mapper.md)
+- [Medical Coding QA](./13-medical-coding-qa.md)
+- [Clinical Documentation Quality Review](./14-clinical-documentation-quality-review.md)
+- [Public Health Intervention Brief](./15-public-health-intervention-brief.md)
+- [Epidemiology Study Critique](./16-epidemiology-study-critique.md)
+- [Meta-Analysis Extraction Plan](./17-meta-analysis-extraction-plan.md)
+- [Pharmacovigilance Signal Review](./18-pharmacovigilance-signal-review.md)
+- [Healthcare Policy Impact Analysis](./19-healthcare-policy-impact-analysis.md)
+- [Medical Device Requirements](./20-medical-device-requirements.md)
+- [Quality Management Gap Review](./21-quality-management-gap-review.md)
+- [Biotech Competitive Landscape](./22-biotech-competitive-landscape.md)
+- [Drug Launch Evidence Plan](./23-drug-launch-evidence-plan.md)
+- [Patient Journey Research](./24-patient-journey-research.md)
