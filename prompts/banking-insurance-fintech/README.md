@@ -1,0 +1,28 @@
+# Banking Insurance Fintech Prompts
+
+24 prompt templates.
+
+- [Credit Risk Memo](./01-credit-risk-memo.md)
+- [Fraud Investigation Brief](./02-fraud-investigation-brief.md)
+- [AML Case Summary](./03-aml-case-summary.md)
+- [KYC Document Review](./04-kyc-document-review.md)
+- [Underwriting Decision Support](./05-underwriting-decision-support.md)
+- [Loan Portfolio Stress Test](./06-loan-portfolio-stress-test.md)
+- [Treasury Liquidity Brief](./07-treasury-liquidity-brief.md)
+- [Capital Adequacy Scenario](./08-capital-adequacy-scenario.md)
+- [Banking Product Benchmark](./09-banking-product-benchmark.md)
+- [Insurance Claim Triage](./10-insurance-claim-triage.md)
+- [Insurance Coverage Comparison](./11-insurance-coverage-comparison.md)
+- [Actuarial Assumption Review](./12-actuarial-assumption-review.md)
+- [Fintech Product Risk Review](./13-fintech-product-risk-review.md)
+- [Payment Failure Analysis](./14-payment-failure-analysis.md)
+- [Transaction Pattern Investigation](./15-transaction-pattern-investigation.md)
+- [Operational Risk Event Review](./16-operational-risk-event-review.md)
+- [Compliance Control Assessment](./17-compliance-control-assessment.md)
+- [Collections Strategy](./18-collections-strategy.md)
+- [Customer Affordability Assessment](./19-customer-affordability-assessment.md)
+- [Open Banking Use Case](./20-open-banking-use-case.md)
+- [Branch Performance Analysis](./21-branch-performance-analysis.md)
+- [Digital Banking Journey](./22-digital-banking-journey.md)
+- [Financial Crime Typology Research](./23-financial-crime-typology-research.md)
+- [Insurance Product Design](./24-insurance-product-design.md)
