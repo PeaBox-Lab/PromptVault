@@ -1,0 +1,27 @@
+# Cybersecurity Privacy Prompts
+
+23 prompt templates.
+
+- [Threat Model](./01-threat-model.md)
+- [Incident Triage Brief](./02-incident-triage-brief.md)
+- [Security Incident Postmortem](./03-security-incident-postmortem.md)
+- [Phishing Campaign Review](./04-phishing-campaign-review.md)
+- [Vulnerability Prioritization](./05-vulnerability-prioritization.md)
+- [Patch Risk Assessment](./06-patch-risk-assessment.md)
+- [Security Architecture Review](./07-security-architecture-review.md)
+- [Privileged Access Audit](./08-privileged-access-audit.md)
+- [Zero Trust Roadmap](./09-zero-trust-roadmap.md)
+- [Cloud Security Assessment](./10-cloud-security-assessment.md)
+- [Application Security Checklist](./11-application-security-checklist.md)
+- [API Security Threat Review](./12-api-security-threat-review.md)
+- [Data Classification Plan](./13-data-classification-plan.md)
+- [Privacy Data Inventory](./14-privacy-data-inventory.md)
+- [DLP Policy Design](./15-dlp-policy-design.md)
+- [Ransomware Readiness Review](./16-ransomware-readiness-review.md)
+- [Business Continuity Cyber Scenario](./17-business-continuity-cyber-scenario.md)
+- [SOC Alert Investigation](./18-soc-alert-investigation.md)
+- [SIEM Use Case Design](./19-siem-use-case-design.md)
+- [Penetration Test Finding Summary](./20-penetration-test-finding-summary.md)
+- [Secure Coding Review](./21-secure-coding-review.md)
+- [Security Awareness Plan](./22-security-awareness-plan.md)
+- [Security Metrics Dashboard](./23-security-metrics-dashboard.md)
