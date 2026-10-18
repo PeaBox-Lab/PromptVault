@@ -1,0 +1,80 @@
+[README.md](https://github.com/user-attachments/files/33639715/README.md)
+# Prompt Library
+
+PromptVault contains **1,000 Markdown prompt templates** across **75 categories**.
+
+- [Writing](./writing/README.md) — 20 templates
+- [Business & Strategy](./business-and-strategy/README.md) — 20 templates
+- [Software Development](./software-development/README.md) — 25 templates
+- [AI & Prompting](./ai-and-prompting/README.md) — 20 templates
+- [Marketing](./marketing/README.md) — 20 templates
+- [Sales](./sales/README.md) — 15 templates
+- [HR & People](./hr-and-people/README.md) — 20 templates
+- [Research](./research/README.md) — 20 templates
+- [Finance & Investing](./finance-and-investing/README.md) — 20 templates
+- [Product Management](./product-management/README.md) — 15 templates
+- [Productivity](./productivity/README.md) — 15 templates
+- [Education & Learning](./education-and-learning/README.md) — 10 templates
+- [Data & Analytics](./data-and-analytics/README.md) — 10 templates
+- [Deep Research](./deep-research/README.md) — 10 templates
+- [Market Intelligence](./market-intelligence/README.md) — 10 templates
+- [Customer Discovery](./customer-discovery/README.md) — 10 templates
+- [Company Intelligence](./company-intelligence/README.md) — 10 templates
+- [Investment Research](./investment-research/README.md) — 10 templates
+- [Policy and Regulation](./policy-and-regulation/README.md) — 10 templates
+- [Academic Research](./academic-research/README.md) — 10 templates
+- [Technical Research](./technical-research/README.md) — 10 templates
+- [Product Discovery](./product-discovery/README.md) — 10 templates
+- [UX Research](./ux-research/README.md) — 10 templates
+- [Operations](./operations/README.md) — 10 templates
+- [Project Management](./project-management/README.md) — 10 templates
+- [Leadership](./leadership/README.md) — 10 templates
+- [Change Management](./change-management/README.md) — 10 templates
+- [HR Systems](./hr-systems/README.md) — 10 templates
+- [Talent and Workforce](./talent-and-workforce/README.md) — 10 templates
+- [Cybersecurity](./cybersecurity/README.md) — 10 templates
+- [Privacy and Governance](./privacy-and-governance/README.md) — 10 templates
+- [Data Science](./data-science/README.md) — 10 templates
+- [Analytics Leadership](./analytics-leadership/README.md) — 10 templates
+- [Procurement](./procurement/README.md) — 10 templates
+- [Legal Operations](./legal-operations/README.md) — 10 templates
+- [Content Research](./content-research/README.md) — 10 templates
+- [Entrepreneurship](./entrepreneurship/README.md) — 10 templates
+- [Prompt Engineering](./prompt-engineering/README.md) — 10 templates
+- [Healthcare Life Sciences](./healthcare-life-sciences/README.md) — 24 templates
+- [Banking Insurance Fintech](./banking-insurance-fintech/README.md) — 24 templates
+- [Manufacturing Industrial](./manufacturing-industrial/README.md) — 25 templates
+- [Supply Chain Logistics](./supply-chain-logistics/README.md) — 24 templates
+- [Retail Ecommerce Cpg](./retail-ecommerce-cpg/README.md) — 25 templates
+- [Energy Utilities Sustainability](./energy-utilities-sustainability/README.md) — 25 templates
+- [Legal Compliance Governance](./legal-compliance-governance/README.md) — 24 templates
+- [Cybersecurity Privacy](./cybersecurity-privacy/README.md) — 23 templates
+- [Government Public Policy](./government-public-policy/README.md) — 25 templates
+- [Education Academia](./education-academia/README.md) — 23 templates
+- [Real Estate Construction](./real-estate-construction/README.md) — 25 templates
+- [Agriculture Food](./agriculture-food/README.md) — 3 templates
+- [Enterprise Architecture](./enterprise-architecture/README.md) — 10 templates
+- [Cloud and DevOps](./cloud-and-devops/README.md) — 10 templates
+- [API and Integration](./api-and-integration/README.md) — 10 templates
+- [Quality Engineering](./quality-engineering/README.md) — 10 templates
+- [Document Intelligence](./document-intelligence/README.md) — 10 templates
+- [Knowledge Management](./knowledge-management/README.md) — 10 templates
+- [Automation](./automation/README.md) — 10 templates
+- [Finance Operations](./finance-operations/README.md) — 10 templates
+- [Supply Chain](./supply-chain/README.md) — 10 templates
+- [Manufacturing](./manufacturing/README.md) — 10 templates
+- [Healthcare Operations](./healthcare-operations/README.md) — 10 templates
+- [Education Operations](./education-operations/README.md) — 10 templates
+- [Government and Public Sector](./government-and-public-sector/README.md) — 10 templates
+- [Sustainability and ESG](./sustainability-and-esg/README.md) — 10 templates
+- [Retail and Ecommerce](./retail-and-ecommerce/README.md) — 10 templates
+- [Real Estate](./real-estate/README.md) — 10 templates
+- [Travel and Hospitality](./travel-and-hospitality/README.md) — 10 templates
+- [Media and Creator Economy](./media-and-creator-economy/README.md) — 10 templates
+- [Career Development](./career-development/README.md) — 10 templates
+- [Personal Finance](./personal-finance/README.md) — 10 templates
+- [Negotiation and Decisions](./negotiation-and-decisions/README.md) — 10 templates
+- [Communication](./communication/README.md) — 10 templates
+- [Creative Ideation](./creative-ideation/README.md) — 10 templates
+- [No-Code and Low-Code](./no-code-and-low-code/README.md) — 10 templates
+- [Open Source and GitHub](./open-source-and-github/README.md) — 10 templates
