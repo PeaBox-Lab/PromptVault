@@ -1,0 +1,28 @@
+# Supply Chain Logistics Prompts
+
+24 prompt templates.
+
+- [Demand Forecast Review](./01-demand-forecast-review.md)
+- [Inventory Optimization Brief](./02-inventory-optimization-brief.md)
+- [Safety Stock Analysis](./03-safety-stock-analysis.md)
+- [Supplier Risk Assessment](./04-supplier-risk-assessment.md)
+- [Sourcing RFP Builder](./05-sourcing-rfp-builder.md)
+- [Vendor Due Diligence](./06-vendor-due-diligence.md)
+- [Purchase Price Variance Analysis](./07-purchase-price-variance-analysis.md)
+- [Warehouse Slotting Plan](./08-warehouse-slotting-plan.md)
+- [Warehouse Productivity Review](./09-warehouse-productivity-review.md)
+- [Route Optimization Brief](./10-route-optimization-brief.md)
+- [Fleet Utilization Review](./11-fleet-utilization-review.md)
+- [Last-Mile Delivery Analysis](./12-last-mile-delivery-analysis.md)
+- [Logistics Network Design](./13-logistics-network-design.md)
+- [Supply Chain Disruption Scenario](./14-supply-chain-disruption-scenario.md)
+- [Customs Documentation Checklist](./15-customs-documentation-checklist.md)
+- [Freight Cost Analysis](./16-freight-cost-analysis.md)
+- [Order Fulfillment Diagnosis](./17-order-fulfillment-diagnosis.md)
+- [S&OP Meeting Pack](./18-s-op-meeting-pack.md)
+- [Supplier Negotiation Plan](./19-supplier-negotiation-plan.md)
+- [Procurement Savings Pipeline](./20-procurement-savings-pipeline.md)
+- [Cold Chain Risk Review](./21-cold-chain-risk-review.md)
+- [Reverse Logistics Design](./22-reverse-logistics-design.md)
+- [Supply Chain Control Tower Brief](./23-supply-chain-control-tower-brief.md)
+- [Resilience Strategy](./24-resilience-strategy.md)
