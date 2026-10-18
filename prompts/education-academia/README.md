@@ -1,0 +1,27 @@
+# Education Academia Prompts
+
+23 prompt templates.
+
+- [Research Question Refiner](./01-research-question-refiner.md)
+- [Dissertation Proposal Critique](./02-dissertation-proposal-critique.md)
+- [Thesis Chapter Reviewer](./03-thesis-chapter-reviewer.md)
+- [Academic Abstract Editor](./04-academic-abstract-editor.md)
+- [Journal Article Outline](./05-journal-article-outline.md)
+- [Peer Review Assistant](./06-peer-review-assistant.md)
+- [Research Methodology Critique](./07-research-methodology-critique.md)
+- [Thematic Analysis Plan](./08-thematic-analysis-plan.md)
+- [Interview Transcript Coding](./09-interview-transcript-coding.md)
+- [Survey Instrument Critique](./10-survey-instrument-critique.md)
+- [Validity Reliability Review](./11-validity-reliability-review.md)
+- [Experimental Design Critique](./12-experimental-design-critique.md)
+- [Statistical Analysis Plan](./13-statistical-analysis-plan.md)
+- [Replication Study Plan](./14-replication-study-plan.md)
+- [Research Ethics Checklist](./15-research-ethics-checklist.md)
+- [Citation Gap Finder](./16-citation-gap-finder.md)
+- [Academic Literature Matrix](./17-academic-literature-matrix.md)
+- [Theoretical Framework Comparison](./18-theoretical-framework-comparison.md)
+- [Research Limitation Analysis](./19-research-limitation-analysis.md)
+- [Conference Paper Outline](./20-conference-paper-outline.md)
+- [Poster Presentation Brief](./21-poster-presentation-brief.md)
+- [Grant Research Narrative](./22-grant-research-narrative.md)
+- [Interdisciplinary Research Map](./23-interdisciplinary-research-map.md)
